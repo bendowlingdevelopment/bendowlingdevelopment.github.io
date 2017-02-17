@@ -1,0 +1,71 @@
+
+.pad p { 
+
+max-width: 700px;
+margin: 0 auto ;
+
+}
+
+
+
+.jumbotron {
+	
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	    text-transform: uppercase;
+		
+}
+
+.jumbotron { 
+    background-color: #18BC9C; 
+    color: #ffffff;
+	 padding: 100px 25px;
+	 
+}
+
+  .navbar {
+    background-image: none;
+    margin-bottom: 0;
+    background-color: #233140;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+} 
+
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #f4511e !important;
+    background-color: #233140 !important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
+
+.pad {
+
+margin-bottom: 50px;
+
+
+}
+
+#contact {
+	
+    
+	margin-bottom : 30px; 
+	
+}
+
+.footer-below {
+	background-color: #233140;
+	color: white;
+	padding: 25px 0;
+	
+}
+
